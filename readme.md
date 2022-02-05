@@ -32,7 +32,7 @@ The index.json file can refer directly to media or can refer to a separate rende
 
 ## Example ##
 Spatial audio ARC
-https://ipfs.io/QmXN8whBDCKTDcPUBb5VJ1QjbcfJv7uGenQ7jFFoM6qxSv
+https://ipfs.io/ipfs/QmXN8whBDCKTDcPUBb5VJ1QjbcfJv7uGenQ7jFFoM6qxSv
 
 ```Console
 /index.json
